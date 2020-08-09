@@ -9,6 +9,8 @@ This is a modification of the boilerplate api code, to allow the use of physical
 
 # Checklist (short install instructions)
 1. download cncjs-pendant-boilerplate to a new folder with wget, unzip it, cd into the folder
+https://github.com/cncjs/cncjs-pendant-boilerplate/archive/master.zip
+
 2. install cncjs-pendant-boilerplate with this command -> npm install
 3. install onoff module with this command -> npm install onoff
 4. modify bin/cncjs-pendant-boilerplate with contents in this repository
