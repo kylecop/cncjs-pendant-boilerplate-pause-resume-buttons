@@ -22,12 +22,13 @@ https://github.com/cncjs/cncjs-pendant-boilerplate/archive/master.zip
 8. create a service that launches the file on reboot.
 
 # More automated version
-mkdir pendant
-wget https://github.com/cncjs/cncjs-pendant-boilerplate/archive/master.zip
-unzip master.zip
-cd cncjs-pendant-boilerplate
-npm install
-npm install onoff
-cd bin
-rm cncjs-pendant-boilerplate
-wget https://raw.githubusercontent.com/kylecop/cncjs-pendant-boilerplate-pause-resume-buttons/master/cncjs-pendant-boilerplate
+
+>mkdir pendant
+>wget https://github.com/cncjs/cncjs-pendant-boilerplate/archive/master.zip
+>unzip master.zip
+>cd cncjs-pendant-boilerplate
+>npm install
+>npm install onoff
+>cd bin
+>rm cncjs-pendant-boilerplate
+>wget https://raw.githubusercontent.com/kylecop/cncjs-pendant-boilerplate-pause-resume-buttons/master/cncjs-pendant-boilerplate
